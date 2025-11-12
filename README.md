@@ -15,3 +15,9 @@ This page is mainly composed of sober colors and pastel tones, which give a more
 Next, we can clearly see that the titles are significantly larger than the regular text, and in addition, they have an underline, so they stand out from the other text. 
 Finally, the content in this main area is spaced throughout the page, so there aren't many blank spaces, making it easier to read and differentiate parts.
 
+***************************************************************************************************************************************************************************************************************************************************************
+
+Page link:
+
+https://u6103681-boop.github.io/Hypermedia-project.-Part-1.-Standard-submission/
+
