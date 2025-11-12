@@ -17,6 +17,12 @@ Finally, the content in this main area is spaced throughout the page, so there a
 
 ***************************************************************************************************************************************************************************************************************************************************************
 
+Figma link:
+
+https://www.figma.com/design/wyTJpcyHo549x32MMN95rO/Hypermedia-project.-Part-1.-Standard-submission--Christian-Ram%C3%ADrez-Gorostiza-?node-id=0-1&p=f&t=cUSeE0dvbD2XLG5H-0
+
+***************************************************************************************************************************************************************************************************************************************************************
+
 Page link:
 
 https://u6103681-boop.github.io/Hypermedia-project.-Part-1.-Standard-submission/
