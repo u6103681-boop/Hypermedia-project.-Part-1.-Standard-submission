@@ -25,5 +25,5 @@ https://www.figma.com/design/wyTJpcyHo549x32MMN95rO/Hypermedia-project.-Part-1.-
 
 Page link:
 
-https://u6103681-boop.github.io/Hypermedia-project.-Part-1.-Standard-submission/
+[https://u6103681-boop.github.io/Hypermedia-project.-Part-1.-Standard-submission/](https://u6103681-boop.github.io/Hypermedia-project.-Part-1.-Standard-submission/)
 
