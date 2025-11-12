@@ -1,0 +1,105 @@
+.titol{
+    font-family: 'Arial', Gadget, sans-serif;
+    background-color:cadetblue;
+    text-decoration: underline;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content:space-evenly;;
+    width: 100%;
+    column-gap: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.game-developer{
+    color:magenta;
+    text-decoration: underline;
+    text-decoration-color: magenta;
+    order: 3;
+}
+
+.aside{
+    font-family: 'Arial', Gadget, sans-serif;
+    flex-direction: column;
+    font-size: large;
+    display: flex;
+    background-color:lightblue;
+    width: 30%;
+    align-items: stretch;
+    
+}
+
+.aside h3{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.aside p{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.section{
+    font-family: 'Arial', Gadget, sans-serif;
+    flex-direction: column;
+    text-align: justify;
+    text-justify: inter-word;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    width: 70%;
+    background-color: rgb(230, 228, 228);
+}
+
+.section h1{
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.section p{
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.section ul{
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-left: -5px;
+}
+.section li{
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.section li2{
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.section dt{
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.section dd{
+    font-size: 18px;
+    margin-bottom: 8px;
+    padding-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
