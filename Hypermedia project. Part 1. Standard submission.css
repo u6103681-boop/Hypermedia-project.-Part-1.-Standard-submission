@@ -1,7 +1,6 @@
 .titol{
     font-family: 'Arial', Gadget, sans-serif;
     background-color:cadetblue;
-    text-decoration: underline;
     display:flex;
     flex-flow: row wrap;
     justify-content:space-around;
@@ -105,3 +104,4 @@
     flex-direction: row;
     justify-content: space-evenly;
 }
+
