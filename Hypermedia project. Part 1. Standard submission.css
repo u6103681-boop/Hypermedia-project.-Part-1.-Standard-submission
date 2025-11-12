@@ -4,18 +4,20 @@
     text-decoration: underline;
     display:flex;
     flex-flow: row wrap;
-    justify-content:space-evenly;;
+    justify-content:space-around;
+    align-items: center;
     width: 100%;
     column-gap: 200px;
     padding-top: 10px;
     padding-bottom: 10px;
+    position: static;
 }
 
 .game-developer{
     color:magenta;
     text-decoration: underline;
     text-decoration-color: magenta;
-    order: 3;
+    font-size: 35px;
 }
 
 .aside{
@@ -24,7 +26,7 @@
     font-size: large;
     display: flex;
     background-color:lightblue;
-    width: 30%;
+    width: 20%;
     align-items: stretch;
     
 }
@@ -49,7 +51,7 @@
     display: flex;
     justify-content: flex-start;
     align-items: baseline;
-    width: 70%;
+    width: 80%;
     background-color: rgb(230, 228, 228);
 }
 
